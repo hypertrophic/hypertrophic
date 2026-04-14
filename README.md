@@ -110,8 +110,10 @@ Simulations evolved from basic phishing to behavioral and reconnaissance scenari
 
 ## Contact
 
-Discord: .w.issam  
+Discord: `.w.issam`
+
 LinkedIn: https://www.linkedin.com/in/wissamboubkir
+
 Email: kikijo.wb@gmail.com
 
 Open to consulting opportunities, collaborations, or discussions around security, OSINT, and automation.
