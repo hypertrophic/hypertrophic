@@ -8,11 +8,11 @@
 
 I supervise the IT department at [ECDH](https://github.com/Association-ECDH), a nonprofit empowering youth in northern Morocco, where I oversee infrastructure, internal tools, and digital security. I also serve as Head of HR, applying OSINT-driven approaches to recruitment and vetting.
 
-Previously Head of IT, I led the development of several projects that are still actively used and maintained by the team (Websites, Apps, ...).
+I previously served as Head of IT, leading the development of multiple systems still actively used in production, before transitioning into a supervisory role.
 
 I specialize in **social engineering and OSINT**, with 3+ years of hands-on experience designing awareness campaigns, running simulated attacks, and handling incident response scenarios.
 
-I’m **not** a traditional developer, I focus on building effective solutions to real problems, leveraging modern tools and AI-assisted workflows.
+I’m **not** a traditional developer, I focus on building effective, real-world solutions using modern tools and AI-assisted workflows.
 
 ---
 
@@ -34,7 +34,7 @@ A full-scale Capture The Flag competition designed and executed end-to-end, cove
 
 * Reverse engineering
 * Web exploitation
-* Reconaissance
+* Reconnaissance
 * Cryptography
 * System and network challenges
 
@@ -110,6 +110,8 @@ Simulations evolved from basic phishing to behavioral and reconnaissance scenari
 
 ## Contact
 
-Discord: `.w.issam`
+Discord: .w.issam  
+LinkedIn: https://www.linkedin.com/in/wissamboubkir
+Email: kikijo.wb@gmail.com
 
 Open to consulting opportunities, collaborations, or discussions around security, OSINT, and automation.
