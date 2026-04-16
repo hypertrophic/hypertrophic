@@ -42,7 +42,7 @@ Built as a **hands-on training environment** simulating some real-world scenario
 
 ---
 
-### [HostLog (v2.0.0)](https://github.com/hypertrophic/hostlog)
+### [HostLog (v2.1.0)](https://github.com/hypertrophic/hostlog)
 A **logging and traffic analysis system designed for constrained hosting environments**, specifically Hostinger web hosting service where raw access logs are unavailable.
 
 - PHP-based request logger injected via `auto_prepend_file`
