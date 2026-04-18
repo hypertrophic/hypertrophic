@@ -43,15 +43,16 @@ Built as a **hands-on training environment** simulating some real-world scenario
 ---
 
 ### [HostLog (v3.0.0)](https://github.com/hypertrophic/hostlog)
-A **logging and traffic analysis system designed for constrained hosting environments**, specifically Hostinger web hosting service where raw access logs are unavailable.
 
-- PHP-based request logger injected via `auto_prepend_file`
-- Secure log storage outside `public_html`
-- Python-based local analyzer with threat detection and classification
-- Detection of DoS patterns, brute force attempts, scans, and abuse
+A logging, threat detection, and security dashboard for constrained hosting environments — specifically Hostinger web hosting where raw access logs and terminal access are unavailable.
 
-Built to provide **visibility, monitoring, and incident analysis capabilities** in environments with limited infrastructure access.
-> _More features coming soon..._
+PHP-based request logger injected via auto_prepend_file with Cloudflare and proxy-aware IP detection
+Secure log storage outside public_html, zero external dependencies
+Python-based local analyzer with 13 threat detections across HIGH / MEDIUM / LOW severity
+Browser-based PHP dashboard — live analysis, IP blocking, whitelist management, and log control
+Detection of DoS patterns, brute force attempts, shell probes, distributed scans, XML-RPC abuse, and more
+
+Built to provide visibility, monitoring, and incident response capabilities in environments with limited infrastructure access. No terminal required.
 
 ---
 
